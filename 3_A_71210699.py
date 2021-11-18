@@ -12,3 +12,4 @@ elif skuy == "Menurun":
     print("*\n" * pu)
 else:
     print("Pola tidak dikenali")
+
