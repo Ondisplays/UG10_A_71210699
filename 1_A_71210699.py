@@ -9,7 +9,7 @@ print("=========================")
 
 hasil = ((rata*0.7)+(tts*0.15)+(tas*0.15))
 
-print("hasil " + str(hasil))
+print("Nilai anda: " + str(hasil))
 
 #standar nilai
 if hasil >= 85:
