@@ -19,3 +19,4 @@ elif(not klub1 and skor1):
     print("Hanya skor "+ skor + " yang ditemukan pada artikel ini")
 else:
     print("Hasil pencarian " + klub + " dan " + skor + " tidak ditemukan")
+
